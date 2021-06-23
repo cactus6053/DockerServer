@@ -1,0 +1,2812 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:45 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55d17240a0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:46 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55a4e5aa40d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:47 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5646c74db0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:48 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55b1930ba0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:49 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x56188d85c0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:51 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5626798b10d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:13:55 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x563aff42c0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:14:02 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55a772cbd0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:14:15 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5631a57130d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:14:41 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55fdf0a910d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:15:33 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55e6a63440d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:16:33 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55a5ef0f40d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:17:34 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55a68d9ce0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:18:34 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x559a4931d0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:19:35 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5574ef7b20d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:20:35 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x561b7d8720d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:21:36 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x56479007f0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:22:36 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55d6040670d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:23:37 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5622bd2720d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:24:37 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5625aee3f0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:25:38 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5574633900d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:26:38 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x557c0d8850d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:27:39 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x562f3bd420d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:28:39 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5628c0c0e0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:29:40 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55bc193e90d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:30:40 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5568885fd0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:31:41 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55aa721110d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:32:41 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x560db8c7a0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:33:41 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55cf59a220d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:34:42 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5595933ed0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:35:42 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55d9b55520d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:36:43 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5589acea60d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:37:43 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x559e0e28b0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:38:44 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x557eb19ba0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:39:44 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5630aa6240d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:40:45 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55e8109b30d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:41:45 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5622168de0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:42:46 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55b72420b0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:43:46 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55628be3c0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:44:47 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x56118a5030d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:45:47 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5611980470d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:46:48 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55eb8c7370d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:47:48 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55efc6dc80d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:48:49 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x556c87df40d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:49:49 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55d0700e10d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:50:50 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55bb58a5e0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:51:50 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x555dfde2b0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:52:51 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5643801100d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:53:51 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x559f258230d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:54:52 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55f902dda0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:55:52 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x555ee501f0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:56:53 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5588c39410d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:57:53 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55d8191f40d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:58:54 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x562f4317b0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 08:59:54 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55eaac5e00d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:00:55 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55e9886610d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:01:55 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55e5390b10d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:02:55 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x561a849a00d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:03:56 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x563870d860d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:04:56 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x561545fe80d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:05:57 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5565295e80d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:06:57 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55565d1990d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:07:58 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55c205ea50d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:08:58 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x56405fdf40d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:09:59 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5625944e20d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:10:59 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x56404e1240d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:12:00 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x558ebcff00d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:13:00 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x560ab1e8b0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:14:01 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55e80ab9f0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:15:01 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5558b9e1f0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:16:02 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5629dc6300d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:17:02 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55c57dabd0d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 09:18:03 2021] ***
+compiled with version: 6.3.0 20170516 on 22 June 2021 08:13:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: bae3cd3616d4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55b7e01920d0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:35:01 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:34:18
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f482a25ecdeb
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/docker-server/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55b21ebcb3e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/docker-server
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/docker-server/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:39:31 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:34:18
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f482a25ecdeb
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/docker-server/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55c5fe14e170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:39:55 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:34:18
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f482a25ecdeb
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/docker-server/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5586cc3d73e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/docker-server
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/docker-server/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:41:52 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:34:18
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f482a25ecdeb
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/docker-server
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/docker-server/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5634017f0170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:43:22 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:42:39
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: c1a1a893209b
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x557345aaf3e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/1] 218.155.72.34 () {42 vars in 771 bytes} [Wed Jun 23 04:48:24 2021] GET / => generated 21 bytes in 6 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/2] 218.155.72.34 () {44 vars in 746 bytes} [Wed Jun 23 04:48:25 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/3] 218.155.72.34 () {40 vars in 740 bytes} [Wed Jun 23 04:48:31 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/4] 218.155.72.34 () {40 vars in 693 bytes} [Wed Jun 23 04:48:31 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/docker-server
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kang_docker/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:52:33 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:42:39
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: c1a1a893209b
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5573c7c66170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'server_dev'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:52:42 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:51:48
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 9d33e77eb50d
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55f97fdd93e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/1] 218.155.72.34 () {40 vars in 740 bytes} [Wed Jun 23 04:54:02 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/2] 218.155.72.34 () {40 vars in 693 bytes} [Wed Jun 23 04:54:03 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/3] 104.152.52.22 () {30 vars in 366 bytes} [Wed Jun 23 04:57:27 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.0 500) 2 headers in 83 bytes (0 switches on core 0)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/docker-server
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kang_docker/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:59:14 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:51:48
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 9d33e77eb50d
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x561669f37170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 04:59:23 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:51:48
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f2745758aa53
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5613ede8a3e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/1] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 04:59:27 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/2] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 04:59:27 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/3] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 04:59:28 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/4] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 04:59:28 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/5] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 04:59:29 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/6] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 04:59:29 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/7] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 04:59:29 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/8] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 04:59:29 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/9] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 04:59:30 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/10] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 04:59:30 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/docker-server
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kang_docker/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:05:45 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 04:51:48
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: f2745758aa53
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x558c1fa1e170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:05:54 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:05:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 5fc7e2c6e6f1
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x5558aa2883e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 7, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/1] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:06:04 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/2] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:06:04 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/3] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:06:05 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/4] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:06:05 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/5] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:06:23 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/6] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:06:23 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/7] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:06:35 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/8] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:06:35 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/9] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:06:36 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/10] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:06:36 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/11] 218.155.72.34 () {40 vars in 741 bytes} [Wed Jun 23 05:06:40 2021] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 7|app: -1|req: -1/12] 218.155.72.34 () {40 vars in 694 bytes} [Wed Jun 23 05:06:40 2021] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/kangServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kang_docker/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:10:02 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:05:01
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 5fc7e2c6e6f1
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kang_docker/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x555559952170
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+ModuleNotFoundError: No module named 'DemoServer'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 9, cores: 2)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:10:11 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:09:17
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 22afb9b78018
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kangServer/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55ab608333e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55ab608333e0 pid: 1 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 8, cores: 2)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/kangServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kangServer/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:27:57 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:09:17
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 22afb9b78018
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kang_docker
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kangServer/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x557a981541e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x557a981541e0 pid: 1 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 11, cores: 2)
+Wed Jun 23 05:28:06 2021 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:06 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:07 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:08 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:09 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:10 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:12 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:16 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:23 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:28:36 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:29:02 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:29:54 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:30:55 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:31:55 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:32:56 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:33:56 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:34:56 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer_
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:35:57 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kangServer/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55b52d2643e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55b52d2643e0 pid: 1 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 8, cores: 2)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /srv/kangServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (/srv/kangServer/apps.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:36:22 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:27:13
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: 14447f4f66a2
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /srv/kangServer/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x55669a1681e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55669a1681e0 pid: 1 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 11, cores: 2)
+Wed Jun 23 05:36:31 2021 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Jun 23 05:36:31 2021] ***
+compiled with version: 6.3.0 20170516 on 23 June 2021 05:35:37
+os: Linux-5.4.0-1045-aws #47~18.04.1-Ubuntu SMP Tue Apr 13 15:58:14 UTC 2021
+nodename: d215a48f340d
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/kangServer
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/kangServer
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /srv/kangServer/apps.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.7 (default, Nov 16 2018, 22:33:19)  [GCC 6.3.0 20170516]
+Python main interpreter initialized at 0x556a400533e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x556a400533e0 pid: 1 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1)
+spawned uWSGI worker 1 (pid: 8, cores: 2)
+[pid: 8|app: 0|req: 1/1] 218.155.72.34 () {42 vars in 772 bytes} [Wed Jun 23 05:36:43 2021] GET / => generated 10697 bytes in 20 msecs (HTTP/1.1 200) 5 headers in 153 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 8|app: 0|req: 2/2] 218.155.72.34 () {44 vars in 747 bytes} [Wed Jun 23 05:36:44 2021] GET /favicon.ico => generated 2113 bytes in 10 msecs (HTTP/1.1 404) 5 headers in 159 bytes (1 switches on core 1)
+[pid: 8|app: 0|req: 3/3] 95.38.208.136 () {32 vars in 454 bytes} [Wed Jun 23 05:37:43 2021] GET / => generated 10697 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 153 bytes (1 switches on core 0)
